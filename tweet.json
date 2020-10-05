@@ -1,0 +1,4467 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 07:19:54 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 40657165,
+                "id_str": "40657165",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "Noemi",
+                "screen_name": "MissNayOhME"
+            },
+            {
+                "id": 267425142,
+                "id_str": "267425142",
+                "indices": [
+                    17,
+                    30
+                ],
+                "name": "Damian Lillard",
+                "screen_name": "Dame_Lillard"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1312653657754660864,
+    "id_str": "1312653657754660864",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 5,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Oct 04 07:19:39 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 267425142,
+                    "id_str": "267425142",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "Damian Lillard",
+                    "screen_name": "Dame_Lillard"
+                }
+            ]
+        },
+        "favorite_count": 162,
+        "favorited": false,
+        "geo": null,
+        "id": 1312653595150442497,
+        "id_str": "1312653595150442497",
+        "in_reply_to_screen_name": "Dame_Lillard",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 267425142,
+        "in_reply_to_user_id_str": "267425142",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 5,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@Dame_Lillard just blessed us with them solid slaps coming soon. \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83c\udfb6\u2764\ufe0f\ud83c\udfb6 that last play was my faveeeee",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun May 17 13:17:20 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "I Am Me, Sexcessful1. \ud83d\udc8e Music Media, Healthcare & Sports. Fan of the Earth & Universe. \ud83c\udfb6\u2764\ufe0f\ud83c\udfb6 \ud83c\udf0e",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "itunes.apple.com/profile/Sexces\u2026",
+                            "expanded_url": "https://itunes.apple.com/profile/Sexcessful1",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/c4jwV61t9v"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 10725,
+            "follow_request_sent": false,
+            "followers_count": 2697,
+            "following": false,
+            "friends_count": 2132,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 40657165,
+            "id_str": "40657165",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 61,
+            "location": "",
+            "name": "Noemi",
+            "notifications": false,
+            "profile_background_color": "ABB8C2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/40657165/1601377932",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1311019329987571712/2v9r_v57_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1311019329987571712/2v9r_v57_normal.jpg",
+            "profile_link_color": "F58EA8",
+            "profile_sidebar_border_color": "333118",
+            "profile_sidebar_fill_color": "5E4B24",
+            "profile_text_color": "B3A26F",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "MissNayOhME",
+            "statuses_count": 60286,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/c4jwV61t9v",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @MissNayOhME: @Dame_Lillard just blessed us with them solid slaps coming soon. \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83c\udfb6\u2764\ufe0f\ud83c\udfb6 that last play was my faveeeee",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 02:40:37 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/hernandez11398\u2026",
+                "expanded_url": "https://twitter.com/hernandez11398/status/1312571847272210432",
+                "indices": [
+                    3,
+                    26
+                ],
+                "url": "https://t.co/hfAxZKSjco"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 2577,
+    "favorited": false,
+    "geo": null,
+    "id": 1312583372175101952,
+    "id_str": "1312583372175101952",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Oct 04 01:54:49 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/TheHoopCentral\u2026",
+                    "expanded_url": "https://twitter.com/TheHoopCentral/status/1312564793333571584",
+                    "indices": [
+                        69,
+                        92
+                    ],
+                    "url": "https://t.co/3pLdvV3yPW"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 33995409,
+                    "id_str": "33995409",
+                    "indices": [
+                        0,
+                        11
+                    ],
+                    "name": "DWade",
+                    "screen_name": "DwyaneWade"
+                },
+                {
+                    "id": 267425142,
+                    "id_str": "267425142",
+                    "indices": [
+                        55,
+                        68
+                    ],
+                    "name": "Damian Lillard",
+                    "screen_name": "Dame_Lillard"
+                }
+            ]
+        },
+        "favorite_count": 209,
+        "favorited": false,
+        "geo": null,
+        "id": 1312571847272210432,
+        "id_str": "1312571847272210432",
+        "in_reply_to_screen_name": "DwyaneWade",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 33995409,
+        "in_reply_to_user_id_str": "33995409",
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status_id": 1312564793333571584,
+        "quoted_status_id_str": "1312564793333571584",
+        "retweet_count": 14,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@DwyaneWade but if we are talking current players than @Dame_Lillard https://t.co/3pLdvV3yPW",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jun 07 23:55:37 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Snap: mhernandez11398\n\nInstagram: michael11398\n\nSingle",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 3331,
+            "follow_request_sent": false,
+            "followers_count": 320,
+            "following": false,
+            "friends_count": 2176,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 2590689893,
+            "id_str": "2590689893",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 0,
+            "location": "Waterford, NY",
+            "name": "Michael Hernandez",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2590689893/1581481748",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1234521862442553345/UfZEtvdg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1234521862442553345/UfZEtvdg_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Hernandez11398",
+            "statuses_count": 13511,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 1312571847272210432,
+    "quoted_status_id_str": "1312571847272210432",
+    "retweet_count": 54,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u270a\ud83c\udffd https://t.co/hfAxZKSjco",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 03 18:23:45 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "adidas.com/us/damian_lill\u2026",
+                "expanded_url": "https://www.adidas.com/us/damian_lillard-basketball-shoes",
+                "indices": [
+                    84,
+                    107
+                ],
+                "url": "https://t.co/U1GlfDM5OV"
+            },
+            {
+                "display_url": "twitter.com/dame_lillard/s\u2026",
+                "expanded_url": "https://twitter.com/dame_lillard/status/1311787271146725376",
+                "indices": [
+                    108,
+                    131
+                ],
+                "url": "https://t.co/Qs9ye1lsxr"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 764,
+    "favorited": false,
+    "geo": null,
+    "id": 1312458333572325377,
+    "id_str": "1312458333572325377",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Oct 01 21:57:11 +0000 2020",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        41,
+                        47
+                    ],
+                    "text": "Dame7"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1311787271146725376",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/IfWTX9mu2q"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 300114634,
+                    "id_str": "300114634",
+                    "indices": [
+                        80,
+                        87
+                    ],
+                    "name": "adidas",
+                    "screen_name": "adidas"
+                },
+                {
+                    "id": 883434812266094592,
+                    "id_str": "883434812266094592",
+                    "indices": [
+                        90,
+                        99
+                    ],
+                    "name": "Toy Story 4",
+                    "screen_name": "toystory"
+                }
+            ]
+        },
+        "favorite_count": 1189,
+        "favorited": false,
+        "geo": null,
+        "id": 1311787271146725376,
+        "id_str": "1311787271146725376",
+        "in_reply_to_screen_name": "Dame_Lillard",
+        "in_reply_to_status_id": 1310684860135034880,
+        "in_reply_to_status_id_str": "1310684860135034880",
+        "in_reply_to_user_id": 267425142,
+        "in_reply_to_user_id_str": "267425142",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 110,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\ud83d\ude80\ud83d\udef8 \ud83d\udc68\u200d\ud83d\ude80 The Buzz Lightyear colorway of my #Dame7 is out now in kids sizes.\n\nFull @adidas x @toystory collection here\u2026 https://t.co/IfWTX9mu2q",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "linktr.ee/DamianLillard",
+                            "expanded_url": "https://linktr.ee/DamianLillard",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/9Nhej6iW0X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 4493,
+            "follow_request_sent": false,
+            "followers_count": 2287580,
+            "following": false,
+            "friends_count": 2382,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 267425142,
+            "id_str": "267425142",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 4158,
+            "location": "",
+            "name": "Damian Lillard",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Dame_Lillard",
+            "statuses_count": 23095,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/9Nhej6iW0X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 1311787271146725376,
+    "quoted_status_id_str": "1311787271146725376",
+    "retweet_count": 31,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "For everyone asking...still a few sizes left in both toddler and big kids versions. https://t.co/U1GlfDM5OV https://t.co/Qs9ye1lsxr",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 03 17:29:01 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "youtu.be/SlN9qCygm1I",
+                "expanded_url": "https://youtu.be/SlN9qCygm1I",
+                "indices": [
+                    68,
+                    91
+                ],
+                "url": "https://t.co/WUtGLHSnWY"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 10228272,
+                "id_str": "10228272",
+                "indices": [
+                    96,
+                    104
+                ],
+                "name": "YouTube",
+                "screen_name": "YouTube"
+            }
+        ]
+    },
+    "favorite_count": 339,
+    "favorited": false,
+    "geo": null,
+    "id": 1312444560241389568,
+    "id_str": "1312444560241389568",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 45,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Dame D.O.L.L.A. featuring Dreebo - Home Team (Official Music Video) https://t.co/WUtGLHSnWY via @YouTube",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 02 20:03:20 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    59,
+                    65
+                ],
+                "text": "Dame7"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 267425142,
+                "id_str": "267425142",
+                "indices": [
+                    3,
+                    16
+                ],
+                "name": "Damian Lillard",
+                "screen_name": "Dame_Lillard"
+            },
+            {
+                "id": 300114634,
+                "id_str": "300114634",
+                "indices": [
+                    98,
+                    105
+                ],
+                "name": "adidas",
+                "screen_name": "adidas"
+            },
+            {
+                "id": 883434812266094592,
+                "id_str": "883434812266094592",
+                "indices": [
+                    108,
+                    117
+                ],
+                "name": "Toy Story 4",
+                "screen_name": "toystory"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1312121007096832000,
+    "id_str": "1312121007096832000",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 110,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Oct 01 21:57:11 +0000 2020",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        41,
+                        47
+                    ],
+                    "text": "Dame7"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1311787271146725376",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/IfWTX9mu2q"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 300114634,
+                    "id_str": "300114634",
+                    "indices": [
+                        80,
+                        87
+                    ],
+                    "name": "adidas",
+                    "screen_name": "adidas"
+                },
+                {
+                    "id": 883434812266094592,
+                    "id_str": "883434812266094592",
+                    "indices": [
+                        90,
+                        99
+                    ],
+                    "name": "Toy Story 4",
+                    "screen_name": "toystory"
+                }
+            ]
+        },
+        "favorite_count": 1189,
+        "favorited": false,
+        "geo": null,
+        "id": 1311787271146725376,
+        "id_str": "1311787271146725376",
+        "in_reply_to_screen_name": "Dame_Lillard",
+        "in_reply_to_status_id": 1310684860135034880,
+        "in_reply_to_status_id_str": "1310684860135034880",
+        "in_reply_to_user_id": 267425142,
+        "in_reply_to_user_id_str": "267425142",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 110,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\ud83d\ude80\ud83d\udef8 \ud83d\udc68\u200d\ud83d\ude80 The Buzz Lightyear colorway of my #Dame7 is out now in kids sizes.\n\nFull @adidas x @toystory collection here\u2026 https://t.co/IfWTX9mu2q",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "linktr.ee/DamianLillard",
+                            "expanded_url": "https://linktr.ee/DamianLillard",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/9Nhej6iW0X"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 4493,
+            "follow_request_sent": false,
+            "followers_count": 2287580,
+            "following": false,
+            "friends_count": 2382,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 267425142,
+            "id_str": "267425142",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 4158,
+            "location": "",
+            "name": "Damian Lillard",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Dame_Lillard",
+            "statuses_count": 23095,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/9Nhej6iW0X",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @Dame_Lillard: \ud83d\ude80\ud83d\udef8 \ud83d\udc68\u200d\ud83d\ude80 The Buzz Lightyear colorway of my #Dame7 is out now in kids sizes.\n\nFull @adidas x @toystory collection here: http\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 02 19:02:53 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/CesarMar209/st\u2026",
+                "expanded_url": "https://twitter.com/CesarMar209/status/1312009156195278848",
+                "indices": [
+                    79,
+                    102
+                ],
+                "url": "https://t.co/0dK1ACQGUQ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 194913777,
+                "id_str": "194913777",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "Houston Lillard",
+                "screen_name": "flyguyhuey5"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1312105792133185536,
+    "id_str": "1312105792133185536",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status_id": 1312009156195278848,
+    "quoted_status_id_str": "1312009156195278848",
+    "retweet_count": 12,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Oct 02 16:56:47 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/CesarMar209/st\u2026",
+                    "expanded_url": "https://twitter.com/CesarMar209/status/1312009156195278848",
+                    "indices": [
+                        62,
+                        85
+                    ],
+                    "url": "https://t.co/0dK1ACQGUQ"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 231,
+        "favorited": false,
+        "geo": null,
+        "id": 1312074060390559744,
+        "id_str": "1312074060390559744",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Oct 02 12:38:53 +0000 2020",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/mymcminnville/\u2026",
+                        "expanded_url": "https://twitter.com/mymcminnville/status/1311752138314313730",
+                        "indices": [
+                            96,
+                            119
+                        ],
+                        "url": "https://t.co/I6uzco9V3d"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 267425142,
+                        "id_str": "267425142",
+                        "indices": [
+                            37,
+                            50
+                        ],
+                        "name": "Damian Lillard",
+                        "screen_name": "Dame_Lillard"
+                    },
+                    {
+                        "id": 194913777,
+                        "id_str": "194913777",
+                        "indices": [
+                            51,
+                            63
+                        ],
+                        "name": "Houston Lillard",
+                        "screen_name": "flyguyhuey5"
+                    }
+                ]
+            },
+            "favorite_count": 22,
+            "favorited": false,
+            "geo": null,
+            "id": 1312009156195278848,
+            "id_str": "1312009156195278848",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": true,
+            "lang": "en",
+            "place": null,
+            "possibly_sensitive": false,
+            "quoted_status_id": 1311752138314313730,
+            "quoted_status_id_str": "1311752138314313730",
+            "retweet_count": 1,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Cali BLOODLINE, We MAKE MONEY MOVES! @Dame_Lillard @flyguyhuey5 CONGRATS TO YOU AND THE FAMILY! https://t.co/I6uzco9V3d",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Oct 15 02:06:42 +0000 2017",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Family, Love, Believe, Work Hard, Life Coach, and Supporting these Young Men and Women to be the BEST in Everything you do, BE FIRST! #ISTAYREADY ONE LOVE!",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 719,
+                "follow_request_sent": false,
+                "followers_count": 122,
+                "following": false,
+                "friends_count": 1187,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 919384004792422400,
+                "id_str": "919384004792422400",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 0,
+                "location": "",
+                "name": "BE FIRST SPORTS",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/929846992972300289/I-YEnRIp_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/929846992972300289/I-YEnRIp_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "CesarMar209",
+                "statuses_count": 231,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        "quoted_status_id": 1312009156195278848,
+        "quoted_status_id_str": "1312009156195278848",
+        "retweet_count": 12,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "And we Learn to do it legal...... they can\u2019t call the cops \ud83d\udcaa\ud83c\udffe https://t.co/0dK1ACQGUQ",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Sep 25 09:07:39 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Head FB Coach @demosfootball || Founder of @teamlillard7on7 ||  I\u2019M HERE TO MAKE A DIFFERENCE",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "teamlillardfootball.com",
+                            "expanded_url": "http://www.teamlillardfootball.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/ghH6efe5ch"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 17630,
+            "follow_request_sent": false,
+            "followers_count": 6868,
+            "following": false,
+            "friends_count": 6271,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 194913777,
+            "id_str": "194913777",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 12,
+            "location": "Portland,OR /Oakland,CA",
+            "name": "Houston Lillard",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/194913777/1597448188",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1243663373130063872/bDSwrZB0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243663373130063872/bDSwrZB0_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "flyguyhuey5",
+            "statuses_count": 16863,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/ghH6efe5ch",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @flyguyhuey5: And we Learn to do it legal...... they can\u2019t call the cops \ud83d\udcaa\ud83c\udffe https://t.co/0dK1ACQGUQ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 02 17:53:12 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/jasonventer/st\u2026",
+                "expanded_url": "https://twitter.com/jasonventer/status/1312087926067531781",
+                "indices": [
+                    5,
+                    28
+                ],
+                "url": "https://t.co/pDlYwHi6GO"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 916,
+    "favorited": false,
+    "geo": null,
+    "id": 1312088255790153733,
+    "id_str": "1312088255790153733",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Oct 02 17:51:53 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1312087926067531781",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/NdAStAInrr"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 267425142,
+                    "id_str": "267425142",
+                    "indices": [
+                        42,
+                        55
+                    ],
+                    "name": "Damian Lillard",
+                    "screen_name": "Dame_Lillard"
+                }
+            ]
+        },
+        "favorite_count": 71,
+        "favorited": false,
+        "geo": null,
+        "id": 1312087926067531781,
+        "id_str": "1312087926067531781",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 4,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "I don't know about you, but I look at how @Dame_Lillard runs down the basketball court and I think to myself \"Wow,\u2026 https://t.co/NdAStAInrr",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Feb 12 00:42:19 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "@HonestGamers editor-in-chief, here on Twitter to talk about games writing and how you can join the effort to build something amazing at HonestGamers!",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "honestgamers.com",
+                            "expanded_url": "http://www.honestgamers.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/XQitQaHYxq"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 443,
+            "follow_request_sent": false,
+            "followers_count": 4279,
+            "following": false,
+            "friends_count": 499,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 20643742,
+            "id_str": "20643742",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 115,
+            "location": "Coastal Oregon",
+            "name": "Jason Venterhees",
+            "notifications": false,
+            "profile_background_color": "E7E7E7",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20643742/1398548801",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1225197979679649792/konUI2mr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225197979679649792/konUI2mr_normal.jpg",
+            "profile_link_color": "FAB952",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "7E7E7E",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "jasonventer",
+            "statuses_count": 68125,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/XQitQaHYxq",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 1312087926067531781,
+    "quoted_status_id_str": "1312087926067531781",
+    "retweet_count": 35,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "True https://t.co/pDlYwHi6GO",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 02 17:49:34 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/al3x35par2a/st\u2026",
+                "expanded_url": "https://twitter.com/al3x35par2a/status/1312068453797228544",
+                "indices": [
+                    22,
+                    45
+                ],
+                "url": "https://t.co/XvmjXqm7V6"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 10083,
+    "favorited": false,
+    "geo": null,
+    "id": 1312087340370681856,
+    "id_str": "1312087340370681856",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Oct 02 16:34:31 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/hotnewhiphop/s\u2026",
+                    "expanded_url": "https://twitter.com/hotnewhiphop/status/1312066273841500161",
+                    "indices": [
+                        82,
+                        105
+                    ],
+                    "url": "https://t.co/1tLc5Ebddk"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 267425142,
+                    "id_str": "267425142",
+                    "indices": [
+                        40,
+                        53
+                    ],
+                    "name": "Damian Lillard",
+                    "screen_name": "Dame_Lillard"
+                }
+            ]
+        },
+        "favorite_count": 92,
+        "favorited": false,
+        "geo": null,
+        "id": 1312068453797228544,
+        "id_str": "1312068453797228544",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status_id": 1312066273841500161,
+        "quoted_status_id_str": "1312066273841500161",
+        "retweet_count": 6,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Nobody wants to play with LBJ more then @Dame_Lillard lol dude stays brown nosing https://t.co/1tLc5Ebddk",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun May 30 23:51:36 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Dont know me? Oh well",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 6703,
+            "follow_request_sent": false,
+            "followers_count": 225,
+            "following": false,
+            "friends_count": 363,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 150055677,
+            "id_str": "150055677",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 1,
+            "location": "stayton, oregon",
+            "name": "Alex Esparza",
+            "notifications": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/150055677/1467484808",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1140031412310986752/vNexnYFz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140031412310986752/vNexnYFz_normal.jpg",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "C6E2EE",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "AL3X35PAR2A",
+            "statuses_count": 52335,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 1312068453797228544,
+    "quoted_status_id_str": "1312068453797228544",
+    "retweet_count": 369,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I\u2019m disappointed Alex https://t.co/XvmjXqm7V6",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 02 02:27:23 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/jonesonthenba/\u2026",
+                "expanded_url": "https://twitter.com/jonesonthenba/status/1311732495512027137",
+                "indices": [
+                    23,
+                    46
+                ],
+                "url": "https://t.co/RjG3JKZzET"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 43341,
+    "favorited": false,
+    "geo": null,
+    "id": 1311855265793282049,
+    "id_str": "1311855265793282049",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Oct 01 18:19:32 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1311732495512027137",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/XiL1B6zMe2"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 21409,
+        "favorited": false,
+        "geo": null,
+        "id": 1311732495512027137,
+        "id_str": "1311732495512027137",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 4083,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "People just love disrespecting LeBron. It\u2019s crazy to me that we have this TRUE once in a generation athlete and peo\u2026 https://t.co/XiL1B6zMe2",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Feb 08 18:16:27 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Imperfect, endlessly curious. Only part you care about: I work in the business of \ud83c\udfc0 as a player agent and marketer. Likes = Bookmarks. Instagram: natetijion",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "instagram.com/tv/CBmKYuxnRif\u2026",
+                            "expanded_url": "https://www.instagram.com/tv/CBmKYuxnRif/?utm_source=ig_web_copy_link",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/BPYsIWRqWO"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 5842,
+            "follow_request_sent": false,
+            "followers_count": 63199,
+            "following": false,
+            "friends_count": 4071,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 20381971,
+            "id_str": "20381971",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 2707,
+            "location": "Secret hideout in the Pyrenees",
+            "name": "Nate Jones",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20381971/1418803490",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1262912006727831562/TboLAiaH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1262912006727831562/TboLAiaH_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "080008",
+            "profile_sidebar_fill_color": "080008",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "JonesOnTheNBA",
+            "statuses_count": 18408,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/BPYsIWRqWO",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 1311732495512027137,
+    "quoted_status_id_str": "1311732495512027137",
+    "retweet_count": 7174,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Shit really crazy tho. https://t.co/RjG3JKZzET",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 02 01:33:12 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2919144516,
+                "id_str": "2919144516",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "Tanner Autencio",
+                "screen_name": "JShuttle_11"
+            },
+            {
+                "id": 267425142,
+                "id_str": "267425142",
+                "indices": [
+                    57,
+                    70
+                ],
+                "name": "Damian Lillard",
+                "screen_name": "Dame_Lillard"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1311841631935447040,
+    "id_str": "1311841631935447040",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 14,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Oct 02 00:58:54 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 267425142,
+                    "id_str": "267425142",
+                    "indices": [
+                        40,
+                        53
+                    ],
+                    "name": "Damian Lillard",
+                    "screen_name": "Dame_Lillard"
+                }
+            ]
+        },
+        "favorite_count": 308,
+        "favorited": false,
+        "geo": null,
+        "id": 1311833001433522176,
+        "id_str": "1311833001433522176",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 14,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "It\u2019s a good day to be from McMinnville! @Dame_Lillard Toyota is where I will be buying my next \ud83d\ude97",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Dec 05 03:09:38 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "LBCC \ud83c\udfc0 \u27a1\ufe0f Linfield College \ud83c\udfc0 | 2020 NWC Champs \ud83c\udfc6 | @lilduvey2",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 6509,
+            "follow_request_sent": false,
+            "followers_count": 508,
+            "following": false,
+            "friends_count": 452,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 2919144516,
+            "id_str": "2919144516",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 0,
+            "location": "",
+            "name": "Tanner Autencio",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2919144516/1582596482",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1232125060619460608/wCT2eidQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232125060619460608/wCT2eidQ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "JShuttle_11",
+            "statuses_count": 2167,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @JShuttle_11: It\u2019s a good day to be from McMinnville! @Dame_Lillard Toyota is where I will be buying my next \ud83d\ude97",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 02 01:32:31 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/Tom_IsOnFire/s\u2026",
+                "expanded_url": "https://twitter.com/Tom_IsOnFire/status/1311837706343772161",
+                "indices": [
+                    11,
+                    34
+                ],
+                "url": "https://t.co/zqJAtSBCtk"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 3648,
+    "favorited": false,
+    "geo": null,
+    "id": 1311841461256638465,
+    "id_str": "1311841461256638465",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Oct 02 01:17:36 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 267425142,
+                    "id_str": "267425142",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "Damian Lillard",
+                    "screen_name": "Dame_Lillard"
+                }
+            ]
+        },
+        "favorite_count": 68,
+        "favorited": false,
+        "geo": null,
+        "id": 1311837706343772161,
+        "id_str": "1311837706343772161",
+        "in_reply_to_screen_name": "Dame_Lillard",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 267425142,
+        "in_reply_to_user_id_str": "267425142",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@Dame_Lillard now that you own Toyota dealership can you personally sign a truck I buy from you \ud83e\udd18\ud83e\udd18",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Nov 24 10:16:49 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 2881,
+            "follow_request_sent": false,
+            "followers_count": 212,
+            "following": false,
+            "friends_count": 661,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 4263902417,
+            "id_str": "4263902417",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 0,
+            "location": "Medford, OR",
+            "name": "TomBland",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4263902417/1485783638",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1138207839883735040/ijD2mcb4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138207839883735040/ijD2mcb4_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Tom_IsOnFire",
+            "statuses_count": 1037,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 1311837706343772161,
+    "quoted_status_id_str": "1311837706343772161",
+    "retweet_count": 84,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Absolutely https://t.co/zqJAtSBCtk",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 01 22:51:15 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/pKfvl76y6K",
+                "expanded_url": "https://twitter.com/evill719/status/1311800273593987073/photo/1",
+                "id": 1311800271081627648,
+                "id_str": "1311800271081627648",
+                "indices": [
+                    111,
+                    134
+                ],
+                "media_url": "http://pbs.twimg.com/media/EjRzZXYU4AAAgw2.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EjRzZXYU4AAAgw2.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 946
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 554
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 314
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 1311800273593987073,
+                "source_status_id_str": "1311800273593987073",
+                "source_user_id": 2343291918,
+                "source_user_id_str": "2343291918",
+                "type": "photo",
+                "url": "https://t.co/pKfvl76y6K"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2343291918,
+                "id_str": "2343291918",
+                "indices": [
+                    3,
+                    12
+                ],
+                "name": "Eric Villanueva",
+                "screen_name": "evill719"
+            },
+            {
+                "id": 267425142,
+                "id_str": "267425142",
+                "indices": [
+                    14,
+                    27
+                ],
+                "name": "Damian Lillard",
+                "screen_name": "Dame_Lillard"
+            },
+            {
+                "id": 300114634,
+                "id_str": "300114634",
+                "indices": [
+                    28,
+                    35
+                ],
+                "name": "adidas",
+                "screen_name": "adidas"
+            },
+            {
+                "id": 883434812266094592,
+                "id_str": "883434812266094592",
+                "indices": [
+                    36,
+                    45
+                ],
+                "name": "Toy Story 4",
+                "screen_name": "toystory"
+            },
+            {
+                "id": 441129326,
+                "id_str": "441129326",
+                "indices": [
+                    46,
+                    58
+                ],
+                "name": "adidas Basketball",
+                "screen_name": "adidasHoops"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/pKfvl76y6K",
+                "expanded_url": "https://twitter.com/evill719/status/1311800273593987073/photo/1",
+                "id": 1311800271081627648,
+                "id_str": "1311800271081627648",
+                "indices": [
+                    111,
+                    134
+                ],
+                "media_url": "http://pbs.twimg.com/media/EjRzZXYU4AAAgw2.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EjRzZXYU4AAAgw2.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 2048,
+                        "resize": "fit",
+                        "w": 946
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 554
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 314
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 1311800273593987073,
+                "source_status_id_str": "1311800273593987073",
+                "source_user_id": 2343291918,
+                "source_user_id_str": "2343291918",
+                "type": "photo",
+                "url": "https://t.co/pKfvl76y6K"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1311800874491023361,
+    "id_str": "1311800874491023361",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Oct 01 22:48:51 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/pKfvl76y6K",
+                    "expanded_url": "https://twitter.com/evill719/status/1311800273593987073/photo/1",
+                    "id": 1311800271081627648,
+                    "id_str": "1311800271081627648",
+                    "indices": [
+                        97,
+                        120
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EjRzZXYU4AAAgw2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EjRzZXYU4AAAgw2.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 2048,
+                            "resize": "fit",
+                            "w": 946
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 554
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 314
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/pKfvl76y6K"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 267425142,
+                    "id_str": "267425142",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "Damian Lillard",
+                    "screen_name": "Dame_Lillard"
+                },
+                {
+                    "id": 300114634,
+                    "id_str": "300114634",
+                    "indices": [
+                        14,
+                        21
+                    ],
+                    "name": "adidas",
+                    "screen_name": "adidas"
+                },
+                {
+                    "id": 883434812266094592,
+                    "id_str": "883434812266094592",
+                    "indices": [
+                        22,
+                        31
+                    ],
+                    "name": "Toy Story 4",
+                    "screen_name": "toystory"
+                },
+                {
+                    "id": 441129326,
+                    "id_str": "441129326",
+                    "indices": [
+                        32,
+                        44
+                    ],
+                    "name": "adidas Basketball",
+                    "screen_name": "adidasHoops"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/pKfvl76y6K",
+                    "expanded_url": "https://twitter.com/evill719/status/1311800273593987073/photo/1",
+                    "id": 1311800271081627648,
+                    "id_str": "1311800271081627648",
+                    "indices": [
+                        97,
+                        120
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EjRzZXYU4AAAgw2.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EjRzZXYU4AAAgw2.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 2048,
+                            "resize": "fit",
+                            "w": 946
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 554
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 314
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/pKfvl76y6K"
+                }
+            ]
+        },
+        "favorite_count": 155,
+        "favorited": false,
+        "geo": null,
+        "id": 1311800273593987073,
+        "id_str": "1311800273593987073",
+        "in_reply_to_screen_name": "Dame_Lillard",
+        "in_reply_to_status_id": 1311787271146725376,
+        "in_reply_to_status_id_str": "1311787271146725376",
+        "in_reply_to_user_id": 267425142,
+        "in_reply_to_user_id_str": "267425142",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@Dame_Lillard @adidas @toystory @adidasHoops Yessir! Just picked up a pair for my little dude! \ud83d\udd25 https://t.co/pKfvl76y6K",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Feb 14 08:39:40 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 24072,
+            "follow_request_sent": false,
+            "followers_count": 61,
+            "following": false,
+            "friends_count": 258,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 2343291918,
+            "id_str": "2343291918",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 0,
+            "location": "",
+            "name": "Eric Villanueva",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2343291918/1587601563",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/569338972300922880/1COhNrTl_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/569338972300922880/1COhNrTl_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "evill719",
+            "statuses_count": 723,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @evill719: @Dame_Lillard @adidas @toystory @adidasHoops Yessir! Just picked up a pair for my little dude! \ud83d\udd25 https://t.co/pKfvl76y6K",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 01 21:57:11 +0000 2020",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    41,
+                    47
+                ],
+                "text": "Dame7"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1311787271146725376",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/IfWTX9mu2q"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 300114634,
+                "id_str": "300114634",
+                "indices": [
+                    80,
+                    87
+                ],
+                "name": "adidas",
+                "screen_name": "adidas"
+            },
+            {
+                "id": 883434812266094592,
+                "id_str": "883434812266094592",
+                "indices": [
+                    90,
+                    99
+                ],
+                "name": "Toy Story 4",
+                "screen_name": "toystory"
+            }
+        ]
+    },
+    "favorite_count": 1189,
+    "favorited": false,
+    "geo": null,
+    "id": 1311787271146725376,
+    "id_str": "1311787271146725376",
+    "in_reply_to_screen_name": "Dame_Lillard",
+    "in_reply_to_status_id": 1310684860135034880,
+    "in_reply_to_status_id_str": "1310684860135034880",
+    "in_reply_to_user_id": 267425142,
+    "in_reply_to_user_id_str": "267425142",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 110,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\ud83d\ude80\ud83d\udef8 \ud83d\udc68\u200d\ud83d\ude80 The Buzz Lightyear colorway of my #Dame7 is out now in kids sizes.\n\nFull @adidas x @toystory collection here\u2026 https://t.co/IfWTX9mu2q",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 30 22:06:56 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/hwhoopscentral\u2026",
+                "expanded_url": "https://twitter.com/hwhoopscentral/status/1311427125497528327",
+                "indices": [
+                    7,
+                    30
+                ],
+                "url": "https://t.co/v9asYE0p6s"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 1735,
+    "favorited": false,
+    "geo": null,
+    "id": 1311427336173019136,
+    "id_str": "1311427336173019136",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "ht",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Sep 30 22:06:06 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 267425142,
+                    "id_str": "267425142",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "Damian Lillard",
+                    "screen_name": "Dame_Lillard"
+                }
+            ]
+        },
+        "favorite_count": 1303,
+        "favorited": false,
+        "geo": null,
+        "id": 1311427125497528327,
+        "id_str": "1311427125497528327",
+        "in_reply_to_screen_name": "Dame_Lillard",
+        "in_reply_to_status_id": 1311426643190136832,
+        "in_reply_to_status_id_str": "1311426643190136832",
+        "in_reply_to_user_id": 267425142,
+        "in_reply_to_user_id_str": "267425142",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 34,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "@Dame_Lillard The last time he was a seed was before the condom broke, Dame. Keep doing you.",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jun 07 22:47:53 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "In love with the game.\n\nSubscribe to our NBA Draft YouTube Channel! Link below\n\nFollow for all things NBA & NCAA Hoops.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtube.com/HardwoodHoopsC\u2026",
+                            "expanded_url": "http://youtube.com/HardwoodHoopsCentralsNBADraftGreenRoom",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/KUzDsafOHL"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 82,
+            "follow_request_sent": false,
+            "followers_count": 19339,
+            "following": false,
+            "friends_count": 10184,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 602347467,
+            "id_str": "602347467",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 70,
+            "location": "Orlando, FL",
+            "name": "Steven Barnhart",
+            "notifications": false,
+            "profile_background_color": "01070A",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/602347467/1542631416",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1267947013645258752/xdiK9L-I_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267947013645258752/xdiK9L-I_normal.jpg",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "HWHoopsCentral",
+            "statuses_count": 5522,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/KUzDsafOHL",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 1311427125497528327,
+    "quoted_status_id_str": "1311427125497528327",
+    "retweet_count": 66,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Lmaooo https://t.co/v9asYE0p6s",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 30 22:06:26 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/lakeshownico/s\u2026",
+                "expanded_url": "https://twitter.com/lakeshownico/status/1311427065967767555",
+                "indices": [
+                    12,
+                    35
+                ],
+                "url": "https://t.co/WUOAwhSVyP"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 9436,
+    "favorited": false,
+    "geo": null,
+    "id": 1311427211111530497,
+    "id_str": "1311427211111530497",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Sep 30 22:05:52 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 267425142,
+                    "id_str": "267425142",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "Damian Lillard",
+                    "screen_name": "Dame_Lillard"
+                }
+            ]
+        },
+        "favorite_count": 93,
+        "favorited": false,
+        "geo": null,
+        "id": 1311427065967767555,
+        "id_str": "1311427065967767555",
+        "in_reply_to_screen_name": "Dame_Lillard",
+        "in_reply_to_status_id": 1311426643190136832,
+        "in_reply_to_status_id_str": "1311426643190136832",
+        "in_reply_to_user_id": 267425142,
+        "in_reply_to_user_id_str": "267425142",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@Dame_Lillard i don\u2019t play for the lakers lol. but they been lacking \ud83e\udd37\u200d\u2642\ufe0f",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Mar 25 02:17:52 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "im pretty hated on here, dont take it personal\ud83e\udd37\u200d\u2642\ufe0f #Lakeshow fan // known as \u201cTroll Lakers Fan\u201d // ur fav player hates me // FAN ACCOUNT // i follow back",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 5527,
+            "follow_request_sent": false,
+            "followers_count": 2303,
+            "following": false,
+            "friends_count": 2142,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 845459687579504645,
+            "id_str": "845459687579504645",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 4,
+            "location": "LAKESHOW B4 BRON",
+            "name": "\ud835\ude49\ud835\ude5e\ud835\ude58\ud835\ude64 \u2078\u2078",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/845459687579504645/1601515352",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1303787617469837316/1-IZk9h7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1303787617469837316/1-IZk9h7_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LakeshowNico",
+            "statuses_count": 9623,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 1311427065967767555,
+    "quoted_status_id_str": "1311427065967767555",
+    "retweet_count": 484,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Bro shut up https://t.co/WUOAwhSVyP",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 30 22:05:33 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/bohannibal/sta\u2026",
+                "expanded_url": "https://twitter.com/bohannibal/status/1311426854377541632",
+                "indices": [
+                    22,
+                    45
+                ],
+                "url": "https://t.co/AaO6syjq6L"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 7789,
+    "favorited": false,
+    "geo": null,
+    "id": 1311426987295010816,
+    "id_str": "1311426987295010816",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Sep 30 22:05:01 +0000 2020",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        83,
+                        104
+                    ],
+                    "text": "TrailblazerCommunity"
+                },
+                {
+                    "indices": [
+                        105,
+                        115
+                    ],
+                    "text": "fans4life"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/vSKAexCAAw",
+                    "expanded_url": "https://twitter.com/bohannibal/status/1311426854377541632/video/1",
+                    "id": 1311426828012187648,
+                    "id_str": "1311426828012187648",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1311426828012187648/pu/img/Htpwiw-yZMP8sfKv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1311426828012187648/pu/img/Htpwiw-yZMP8sfKv.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1280,
+                            "resize": "fit",
+                            "w": 592
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 555
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 315
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/vSKAexCAAw"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 267425142,
+                    "id_str": "267425142",
+                    "indices": [
+                        27,
+                        40
+                    ],
+                    "name": "Damian Lillard",
+                    "screen_name": "Dame_Lillard"
+                },
+                {
+                    "id": 6395222,
+                    "id_str": "6395222",
+                    "indices": [
+                        50,
+                        63
+                    ],
+                    "name": "Portland Trail Blazers",
+                    "screen_name": "trailblazers"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "display_url": "pic.twitter.com/vSKAexCAAw",
+                    "expanded_url": "https://twitter.com/bohannibal/status/1311426854377541632/video/1",
+                    "id": 1311426828012187648,
+                    "id_str": "1311426828012187648",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1311426828012187648/pu/img/Htpwiw-yZMP8sfKv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1311426828012187648/pu/img/Htpwiw-yZMP8sfKv.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1280,
+                            "resize": "fit",
+                            "w": 592
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 555
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 315
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/vSKAexCAAw",
+                    "video_info": {
+                        "aspect_ratio": [
+                            37,
+                            80
+                        ],
+                        "duration_millis": 7348,
+                        "variants": [
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1311426828012187648/pu/vid/592x1280/EukHz8TmvWr21WId.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1311426828012187648/pu/vid/320x690/DMEfiBodMpwGEN5q.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1311426828012187648/pu/vid/360x778/qYZzxaL__0y6oGaU.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1311426828012187648/pu/pl/bCLTBn__BWBVPXQZ.m3u8?tag=10"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "favorite_count": 1394,
+        "favorited": false,
+        "geo": null,
+        "id": 1311426854377541632,
+        "id_str": "1311426854377541632",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 79,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This is one of my favorite @Dame_Lillard moments. @trailblazers they were so happy #TrailblazerCommunity #fans4life https://t.co/vSKAexCAAw",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Apr 12 03:49:53 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Communicator. Social media scholar. Saltwater aquarium enthusiast and weekend ninja #wutangforever #goblazers #InKetosis #husband #father ENTJ",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 35384,
+            "follow_request_sent": false,
+            "followers_count": 5191,
+            "following": false,
+            "friends_count": 4773,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 132045733,
+            "id_str": "132045733",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 11,
+            "location": "Portland  United States",
+            "name": "Omoluabi \ud83c\uddf3\ud83c\uddec",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/132045733/1601536850",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1311707617098567681/CvAxGMJk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1311707617098567681/CvAxGMJk_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "bohannibal",
+            "statuses_count": 27894,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 1311426854377541632,
+    "quoted_status_id_str": "1311426854377541632",
+    "retweet_count": 342,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Dame Love the kids... https://t.co/AaO6syjq6L",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 30 22:04:11 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/LakeshowNico/s\u2026",
+                "expanded_url": "https://twitter.com/LakeshowNico/status/1311426191161733120",
+                "indices": [
+                    59,
+                    82
+                ],
+                "url": "https://t.co/dZbGDQRE3p"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 14312,
+    "favorited": false,
+    "geo": null,
+    "id": 1311426643190136832,
+    "id_str": "1311426643190136832",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Sep 30 22:02:23 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1217461105146171393,
+                    "id_str": "1217461105146171393",
+                    "indices": [
+                        0,
+                        15
+                    ],
+                    "name": "LHG \ud83e\udd20\ud83e\udd20\ud83e\udd20 (2-14)",
+                    "screen_name": "BlockedByBamba"
+                },
+                {
+                    "id": 267425142,
+                    "id_str": "267425142",
+                    "indices": [
+                        16,
+                        29
+                    ],
+                    "name": "Damian Lillard",
+                    "screen_name": "Dame_Lillard"
+                }
+            ]
+        },
+        "favorite_count": 71,
+        "favorited": false,
+        "geo": null,
+        "id": 1311426191161733120,
+        "id_str": "1311426191161733120",
+        "in_reply_to_screen_name": "BlockedByBamba",
+        "in_reply_to_status_id": 1311426083733090306,
+        "in_reply_to_status_id_str": "1311426083733090306",
+        "in_reply_to_user_id": 1217461105146171393,
+        "in_reply_to_user_id_str": "1217461105146171393",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@BlockedByBamba @Dame_Lillard shame in being the 8th seed with the thunder and mavs ahead of you lol",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Mar 25 02:17:52 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "im pretty hated on here, dont take it personal\ud83e\udd37\u200d\u2642\ufe0f #Lakeshow fan // known as \u201cTroll Lakers Fan\u201d // ur fav player hates me // FAN ACCOUNT // i follow back",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 5527,
+            "follow_request_sent": false,
+            "followers_count": 2303,
+            "following": false,
+            "friends_count": 2142,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 845459687579504645,
+            "id_str": "845459687579504645",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 4,
+            "location": "LAKESHOW B4 BRON",
+            "name": "\ud835\ude49\ud835\ude5e\ud835\ude58\ud835\ude64 \u2078\u2078",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/845459687579504645/1601515352",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1303787617469837316/1-IZk9h7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1303787617469837316/1-IZk9h7_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LakeshowNico",
+            "statuses_count": 9623,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 1311426191161733120,
+    "quoted_status_id_str": "1311426191161733120",
+    "retweet_count": 1088,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "What seed have you been the last 8 years before Bron came? https://t.co/dZbGDQRE3p",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 30 22:02:34 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/JonesOnTheNBA/\u2026",
+                "expanded_url": "https://twitter.com/JonesOnTheNBA/status/1311425609755619328",
+                "indices": [
+                    24,
+                    47
+                ],
+                "url": "https://t.co/A85cD6pBTQ"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 756,
+    "favorited": false,
+    "geo": null,
+    "id": 1311426235973603329,
+    "id_str": "1311426235973603329",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Sep 30 22:00:05 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1311425609755619328",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/YuhgiwbKW1"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 267425142,
+                    "id_str": "267425142",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "Damian Lillard",
+                    "screen_name": "Dame_Lillard"
+                }
+            ]
+        },
+        "favorite_count": 287,
+        "favorited": false,
+        "geo": null,
+        "id": 1311425609755619328,
+        "id_str": "1311425609755619328",
+        "in_reply_to_screen_name": "Dame_Lillard",
+        "in_reply_to_status_id": 1311424862481604608,
+        "in_reply_to_status_id_str": "1311424862481604608",
+        "in_reply_to_user_id": 267425142,
+        "in_reply_to_user_id_str": "267425142",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 8,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@Dame_Lillard LMAO. You improve every year by not EVER picking up a ball in the offseason. But you know how it is..\u2026 https://t.co/YuhgiwbKW1",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Feb 08 18:16:27 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Imperfect, endlessly curious. Only part you care about: I work in the business of \ud83c\udfc0 as a player agent and marketer. Likes = Bookmarks. Instagram: natetijion",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "instagram.com/tv/CBmKYuxnRif\u2026",
+                            "expanded_url": "https://www.instagram.com/tv/CBmKYuxnRif/?utm_source=ig_web_copy_link",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/BPYsIWRqWO"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 5842,
+            "follow_request_sent": false,
+            "followers_count": 63199,
+            "following": false,
+            "friends_count": 4071,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 20381971,
+            "id_str": "20381971",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 2707,
+            "location": "Secret hideout in the Pyrenees",
+            "name": "Nate Jones",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20381971/1418803490",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1262912006727831562/TboLAiaH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1262912006727831562/TboLAiaH_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "080008",
+            "profile_sidebar_fill_color": "080008",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "JonesOnTheNBA",
+            "statuses_count": 18408,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/BPYsIWRqWO",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 1311425609755619328,
+    "quoted_status_id_str": "1311425609755619328",
+    "retweet_count": 32,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I know how to do me bro https://t.co/A85cD6pBTQ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 30 22:01:54 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/Carlos_Dotson/\u2026",
+                "expanded_url": "https://twitter.com/Carlos_Dotson/status/1311425455879335939",
+                "indices": [
+                    72,
+                    95
+                ],
+                "url": "https://t.co/bCaVazvFOX"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 515,
+    "favorited": false,
+    "geo": null,
+    "id": 1311426069497409537,
+    "id_str": "1311426069497409537",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Sep 30 21:59:28 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 267425142,
+                    "id_str": "267425142",
+                    "indices": [
+                        0,
+                        13
+                    ],
+                    "name": "Damian Lillard",
+                    "screen_name": "Dame_Lillard"
+                }
+            ]
+        },
+        "favorite_count": 6,
+        "favorited": false,
+        "geo": null,
+        "id": 1311425455879335939,
+        "id_str": "1311425455879335939",
+        "in_reply_to_screen_name": "Dame_Lillard",
+        "in_reply_to_status_id": 1311424862481604608,
+        "in_reply_to_status_id_str": "1311424862481604608",
+        "in_reply_to_user_id": 267425142,
+        "in_reply_to_user_id_str": "267425142",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@Dame_Lillard Serious question big bro! Why one glove on the boxing?",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jul 24 20:30:28 +0000 2012",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "#SN4L Western Carolina Basketball Commit \ud83c\udfc0301\u2708\ufe0f864 Snapchat: bballdude_23 ThankGod for the blessings \ud83d\ude4f\ud83d\udcaf",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtu.be/DJXMPob5epA",
+                            "expanded_url": "https://youtu.be/DJXMPob5epA",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/QaYNRIAPR9"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 16452,
+            "follow_request_sent": false,
+            "followers_count": 3306,
+            "following": false,
+            "friends_count": 3323,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 714883652,
+            "id_str": "714883652",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 4,
+            "location": "PG COUNTY",
+            "name": "R.i.P grandpa",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/714883652/1559554637",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275229093756166145/_3EKIBvN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275229093756166145/_3EKIBvN_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Carlos_Dotson",
+            "statuses_count": 104616,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/QaYNRIAPR9",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 1311425455879335939,
+    "quoted_status_id_str": "1311425455879335939",
+    "retweet_count": 13,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "One of my fingers still healing from being dislocated on the other one. https://t.co/bCaVazvFOX",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 30 21:57:06 +0000 2020",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/Jr_Smith18/sta\u2026",
+                "expanded_url": "https://twitter.com/Jr_Smith18/status/1311396471376433155",
+                "indices": [
+                    25,
+                    48
+                ],
+                "url": "https://t.co/XifJRdFXhd"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 5446,
+    "favorited": false,
+    "geo": null,
+    "id": 1311424862481604608,
+    "id_str": "1311424862481604608",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Sep 30 20:04:18 +0000 2020",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 2379056251,
+                    "id_str": "2379056251",
+                    "indices": [
+                        0,
+                        9
+                    ],
+                    "name": "Overtime",
+                    "screen_name": "overtime"
+                },
+                {
+                    "id": 267425142,
+                    "id_str": "267425142",
+                    "indices": [
+                        10,
+                        23
+                    ],
+                    "name": "Damian Lillard",
+                    "screen_name": "Dame_Lillard"
+                }
+            ]
+        },
+        "favorite_count": 148,
+        "favorited": false,
+        "geo": null,
+        "id": 1311396471376433155,
+        "id_str": "1311396471376433155",
+        "in_reply_to_screen_name": "overtime",
+        "in_reply_to_status_id": 1311394766534447105,
+        "in_reply_to_status_id_str": "1311394766534447105",
+        "in_reply_to_user_id": 2379056251,
+        "in_reply_to_user_id_str": "2379056251",
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 8,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@overtime @Dame_Lillard Bro do everything in the off-season but hoop",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Apr 29 20:36:45 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Real Jew\ud83e\udd34\ud83c\udffe|DB @ Cumberlands Uni.|Proverbs 3:5-6|Joel 2:27| Revelation 2:9|",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "hudl.com/v/2CNYFd",
+                            "expanded_url": "http://www.hudl.com/v/2CNYFd",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/ME357Jhod2"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 13412,
+            "follow_request_sent": false,
+            "followers_count": 744,
+            "following": false,
+            "friends_count": 631,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 726148237304979456,
+            "id_str": "726148237304979456",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 0,
+            "location": "Anderson, SC",
+            "name": "J2\ud83c\udf92",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/726148237304979456/1594742643",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1291114553711960067/P6wQCKBQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1291114553711960067/P6wQCKBQ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Jr_Smith18",
+            "statuses_count": 2306,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/ME357Jhod2",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 1311396471376433155,
+    "quoted_status_id_str": "1311396471376433155",
+    "retweet_count": 428,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "I hoop DURING the season https://t.co/XifJRdFXhd",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:59:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "They say the truth shall come to the light...so everybody grab ya shades cuz ya boy that bright. (Instagram: DamianLillard)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linktr.ee/DamianLillard",
+                        "expanded_url": "https://linktr.ee/DamianLillard",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9Nhej6iW0X"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4493,
+        "follow_request_sent": false,
+        "followers_count": 2287580,
+        "following": false,
+        "friends_count": 2382,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267425142,
+        "id_str": "267425142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4158,
+        "location": "",
+        "name": "Damian Lillard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267425142/1593212084",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013881960249229312/DDUVi71h_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dame_Lillard",
+        "statuses_count": 23095,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9Nhej6iW0X",
+        "utc_offset": null,
+        "verified": true
+    }
+}
